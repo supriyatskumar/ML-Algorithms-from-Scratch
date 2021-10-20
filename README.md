@@ -1,6 +1,6 @@
 # ML-Algorithms-from-Scratch
 
-This is a dynamic repository of implementation of Machine Learning Algorithms from scratch using python.
+This is a dynamic repository consisting implementation of Machine Learning Algorithms from scratch using python.
 
 Below are the current implementations-
 1. Decision Tree from Scratch
