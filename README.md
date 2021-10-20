@@ -1,6 +1,9 @@
 # ML-Algorithms-from-Scratch
 
-#### Decision Tree from Scratch
-#### Clustering Algorithms from Scratch
-#### Autoencoder from Scratch
-#### Variational Autoencoder from scratch
+This is a dynamic repository of implementation of Machine Learning Algorithms from scratch using python.
+
+Below are the current implementations-
+1. Decision Tree from Scratch
+2. Clustering Algorithms from Scratch
+3. Autoencoder from Scratch
+4. Variational Autoencoder from scratch
