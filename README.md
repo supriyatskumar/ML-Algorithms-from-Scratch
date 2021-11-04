@@ -4,6 +4,6 @@ This is a dynamic repository consisting implementation of Machine Learning Algor
 
 Below are the current implementations-
 1. Decision Tree
-2. Clustering Algorithms
+2. Clustering Algorithms (K-Means, Expectation-maximization)
 3. Autoencoder
 4. Variational Autoencoder
